@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+div {
+  margin: 20px auto;
+  width: 70vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: sans-serif;
+  font-size: 24px;
+}
+
+.targetElem {
+  background: black;
+  height: 300px;
+}
+
+.elem {
+  background: maroon;
+}
